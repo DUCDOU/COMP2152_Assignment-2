@@ -264,5 +264,5 @@ if __name__ == "__main__":
 # A useful new feature could be the addition of the option for the user to input their own list of ports to be scanned instead of the range. 
 # This will allow the user to save time and resources, as they will be able to scan only the relevant ports of interest instead of the range. 
 # The user will be able to input their list of ports, separated by commas, for example, "22,80,443," and the program will be able to parse them accordingly. 
-# Diagram: See diagram_studentID.png in the repository root
+# Diagram: See diagram_101570606.png in the repository root
 
